@@ -126,7 +126,7 @@ addEventListener('fetch', event => {
   * 阻断器
   */
   const blocker = {
-    keys: [".m3u8", ".ts", ".acc", ".m4s", "photocall.tv", "googlevideo.com"],
+    keys: [".m3u8", ".ts", ".acc", ".m4s", "photocall.tv", "googlevideo.com", "xunleix.com"],
     check: function (url) {
         url = url.toLowerCase();
         let len = blocker.keys.filter(x => url.includes(x)).length;
