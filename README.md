@@ -18,4 +18,7 @@
 - [x] 修正反代代码，支持下载反代（感谢小樱提供修正代码）
 - [x] 增加多个反代域名
 - [ ] aira2破解多线程提速
- 
+
+## 致谢
+本项目 CDN 加速及安全防护由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 赞助
+![image](https://github.com/user-attachments/assets/9b486747-77c5-4d28-9ce2-83591de5ee0f)
